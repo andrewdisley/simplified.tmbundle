@@ -4,6 +4,12 @@
 <dict>
 	<key>name</key>
 	<string>Simplified</string>
+  <key>contactEmailRot13</key>
+  <string>naqerj@fvzcyvsvrq.pb.hx</string>
+  <key>contactName</key>
+  <string>Andrew Disley</string>
+  <key>description</key>
+  <string>TextMate bundle that speeds up my front-end workflow.</string>
 	<key>ordering</key>
 	<array>
 		<string>700CAD0B-C3F4-447F-9DF7-03C7C2899719</string>
