@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;tr&gt;
+  &lt;td&gt;&lt;img alt="" height="10" src="images/spacer.gif" style="display:block;" width="1" /&gt;&lt;/td&gt;
+&lt;/tr&gt;</string>
+	<key>name</key>
+	<string>email spacer</string>
+	<key>scope</key>
+	<string>text.html.basic</string>
+	<key>tabTrigger</key>
+	<string>spacer</string>
+	<key>uuid</key>
+	<string>5EA17AF5-667E-4502-9BAA-4B28E1854212</string>
+</dict>
+</plist>
