@@ -2,14 +2,14 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>contactEmailRot13</key>
+	<string>naqerj@fvzcyvsvrq.pb.hx</string>
+	<key>contactName</key>
+	<string>Andrew Disley</string>
+	<key>description</key>
+	<string>TextMate bundle that speeds up my front-end workflow.</string>
 	<key>name</key>
 	<string>Simplified</string>
-  <key>contactEmailRot13</key>
-  <string>naqerj@fvzcyvsvrq.pb.hx</string>
-  <key>contactName</key>
-  <string>Andrew Disley</string>
-  <key>description</key>
-  <string>TextMate bundle that speeds up my front-end workflow.</string>
 	<key>ordering</key>
 	<array>
 		<string>700CAD0B-C3F4-447F-9DF7-03C7C2899719</string>
@@ -71,6 +71,7 @@
 		<string>49CB28D3-26FE-4933-AE0B-B5034A3F8268</string>
 		<string>92D7E59E-56AC-4F3A-85C5-111ED300BA10</string>
 		<string>2B56B755-6133-4FCC-833C-930F897A9B86</string>
+		<string>BD7666F1-06B8-48F3-B001-D3D842CCD62D</string>
 		<string>5FF6ADA4-D108-47D9-8B4D-85A26F3D05CA</string>
 		<string>4FC818D9-3070-4FFC-8A90-CCE093E6D227</string>
 		<string>82757165-AD5B-48B1-8AA6-3FBAD8AF799F</string>
