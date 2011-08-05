@@ -14,8 +14,6 @@
 	<string>Calculate font size</string>
 	<key>output</key>
 	<string>replaceSelectedText</string>
-	<key>scope</key>
-	<string>source.css</string>
 	<key>tabTrigger</key>
 	<string>fs</string>
 	<key>uuid</key>
